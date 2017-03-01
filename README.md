@@ -1,16 +1,16 @@
-# TheGauntlet
+# The Gauntlet
 First Person Shooter of a sadistic game show with large open arena's
 
-# GDD – The Gauntlet
+# Game Design Document – The Gauntlet
 
-# Concept:
+## Concept:
 
 - You are an unwilling contestant in a sadistic game show
 - Survive as many encounters as possible – arena
 - There are only two exits, death and no one has ever made it to the other
 - You can use force or stealth to pass each arena
 
-# Rules:
+## Rules:
 
 - You can pass an arena undetected
 - If detected, you must clear the arena
@@ -20,7 +20,7 @@ First Person Shooter of a sadistic game show with large open arena's
 - You and enemies fight for the same resources
 - You are scored on how many arenas you survive
 
-# Requirements:
+## Requirements:
 
 - Arena landscapes
 - Unreal Starter content + Landscape tools
@@ -29,7 +29,7 @@ First Person Shooter of a sadistic game show with large open arena's
 - Various sfx, look into purchasing sound pack
 - Everything else!
 
-# Potential Technical Challenges:
+## Potential Technical Challenges:
 
 - Serialisation when saving
 - Checkpoint system architecture
