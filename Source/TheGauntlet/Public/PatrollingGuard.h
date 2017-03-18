@@ -12,10 +12,10 @@ UCLASS()
 class THEGAUNTLET_API APatrollingGuard : public ATP_ThirdPersonCharacter
 {
 	GENERATED_BODY()
-
-public: // TODO remove or create get
+public:
 	UPROPERTY(EditInstanceOnly, Category = "Patrol Route")
 	TArray<AActor*> PatrolPointsCPP;
+
 	
 	
 };
